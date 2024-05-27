@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
+CID_674_Athena_Commando_F_HoodieBandit, 1200
+CID_748_Athena_Commando_F_Hitman, 1200
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+BID_229_LuckyRiderMale, 200
+Pickaxe_ID_294_CandyCane, 1200
+Glider_ID_201_TNTinaFemale, 500
+Wrap_210_Thermal, 200
+CID_655_Athena_Commando_F_Barefoot, 1200
+EID_Laugh, 500
